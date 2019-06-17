@@ -13,10 +13,10 @@ console.log('hello')
 return string.toLowerCase()
 }
 function sayHiToGrandma(string) {
-return "I can't hear you!".toLowerCase('hello')
+return string.toLowerCase('hello')
 }
 function sayHiToGrandma(string) {
-return "YES INDEED!".toUpperCase('HELLO')
+return string.toUpperCase('HELLO')
 }
 function sayHiToGrandma(string) {
 return "I love you, Grandma."
